@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @sakurapeta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sakurapeta/sakurapeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I am a mouse living in the sink.;)
-
+!GREETINGS
+I am a mouse living in the sink :)
+I am almost a dead person.
+please feel free to contact me 
+if you are interested in 
+how to survive as if you are already dead
+"in case I don't see you
+good day good evening and
+good night"
